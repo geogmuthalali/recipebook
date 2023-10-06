@@ -1,0 +1,4 @@
+reciepe name: chicken stew
+ingrediance
+chicken 1kg
+pepper 20g
